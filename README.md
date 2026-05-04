@@ -22,10 +22,12 @@
   <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a"/>
   <img src="https://img.shields.io/badge/Data-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a"/>
   <img src="https://img.shields.io/badge/Data-Numpy-informational?style=flat&logo=numpy&logoColor=white&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/Data-SQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a"/>
   <img src="https://img.shields.io/badge/ML-ScikitLearn-informational?style=flat&logo=scikit-learn&logoColor=white&color=2bbc8a"/>
   <img src="https://img.shields.io/badge/DeepLearning-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a"/>
   <img src="https://img.shields.io/badge/NLP-NLTK-informational?style=flat&logo=python&logoColor=white&color=2bbc8a"/>
   <img src="https://img.shields.io/badge/Visualization-Matplotlib-informational?style=flat&logo=plotly&logoColor=white&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/Visualization-Power_BI-informational?style=flat&logo=powerbi&logoColor=white&color=2bbc8a"/>
   <img src="https://img.shields.io/badge/Tools-OpenCV-informational?style=flat&logo=opencv&logoColor=white&color=2bbc8a"/>
   <img src="https://img.shields.io/badge/Notebook-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a"/>
 </p>
