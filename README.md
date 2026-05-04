@@ -1,48 +1,64 @@
-# 👋 I'm Ibrahim Mohamed | Data Enthusiast 📊
+<!-- Header -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png" />
+</p>
+
+<h1 align="center">
+  Hello, folks!
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update-with-new-style/Assets/DataScience.gif" width="400">
+  I'm <b>Ibrahim Bastawesy</b> 👨‍💻 <br>
+  Data Science & AI Student 🤖 <br>
+  From Egypt 🇪🇬
 </p>
 
-### 👨‍💻 About Me
-*   **Data Science Intern at CIB Egypt**: Experienced in financial data analysis and banking environments.
-*   **AI Specialist in the Making**: Student at the Faculty of Artificial Intelligence, Menofia University.
-*   **Project Portfolio**: Built everything from **Titanic Survival Models** to **Autonomous Robotics** with Arduino.
+<hr>
 
----
+<h2>🔧 Technologies & Tools</h2>
 
-### 🛠 My Technical Toolkit (The Data & SQL Gear)
-<p align="left">
-  <!-- Python -->
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <!-- SQL -->
-  <img src="https://img.shields.io/badge/sql-CC2927?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <!-- Power BI -->
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <!-- Pandas -->
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-  <!-- PyTorch -->
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+<p>
+  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/Data-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/Data-Numpy-informational?style=flat&logo=numpy&logoColor=white&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/ML-ScikitLearn-informational?style=flat&logo=scikit-learn&logoColor=white&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/DeepLearning-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/NLP-NLTK-informational?style=flat&logo=python&logoColor=white&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/Visualization-Matplotlib-informational?style=flat&logo=plotly&logoColor=white&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/Tools-OpenCV-informational?style=flat&logo=opencv&logoColor=white&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/Notebook-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a"/>
 </p>
 
----
+<hr>
 
-### 📈 GitHub Data Insights
+<h2>📊 Projects</h2>
+
+<ul>
+  <li>NLP Project using N-gram models</li>
+  <li>Image Processing using OpenCV</li>
+  <li>Data Analysis projects with Pandas & Visualization</li>
+  <li>Machine Learning models (Classification & Prediction)</li>
+</ul>
+
+<hr>
+
+<h2>📈 GitHub Stats</h2>
+
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=vision-friendly-dark" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=vision-friendly-dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark"/>
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark"/>
+</p>
 
-### 🛰 Projects In Focus
-*   **Sentiment Analysis Comparison**: Comparing TF-IDF vs N-gram models.
-*   **Obstacle Avoidance Robot**: Embedded systems meets AI logic.
-*   **Titanic Survival Prediction**: Classic ML at its best.
+<hr>
 
----
+<h2>🌐 Connect with Me</h2>
 
-### 📫 Let's Connect!
-<p align="left">
-<a href="YOUR_LINKEDIN_URL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ibrahim Mohamed" height="30" width="40" /></a>
+<p>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"/>
+  </a>
 </p>
