@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">
-  Hello, folks!
+  Hello, Ibrahim!
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h1>
 
@@ -58,7 +58,7 @@
 <h2>🌐 Connect with Me</h2>
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+  <a href="www.linkedin.com/in/ibrahim-bastawesi-85927233a">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"/>
   </a>
 </p>
