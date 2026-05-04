@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png" />
+  <img src="header.jpeg" width="900" />
 </p>
 
 <h1 align="center">
